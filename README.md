@@ -14,5 +14,7 @@ SendMessage("+15134123", "Hello World", "19:02", spam=False, download=True)
 
 PAY ATTENTION! <3
 
-You only need to set download to be true on the first run of the package,<br>
-Keeping it on won't make the app crush but it will cost more of the computer resources.
+*You only need to set download to be true on the first run of the package,<br>
+ Keeping it on won't make the app crush but it will cost more of the computer resources.
+
+
