@@ -7,7 +7,7 @@ WhatSender is a python package that allows you to send Whatsapp messages at a gi
 ```python
 from WhatSender import SendMessage
 
-SendMessage("+972545265123", #Number
+SendMessage("+972544985275", #Number
             "Good Morning ♥", #Message
             "13:13", #Time
             spam=False, #Spammer
@@ -27,7 +27,7 @@ SendMessage("+972545265123", #Number
 ```python
 from WhatSender import SendMessage
 
-SendMessage("+972545265123", #Number
+SendMessage("+972544985275", #Number
             "Good Morning ♥", #Message
             "13:13", #Time
             spam=True, #Spammer
