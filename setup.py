@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '0.1.2'
+VERSION = '0.1.4'
 DESCRIPTION = 'Sending Whatsapp messages.'
 LONG_DESCRIPTION = 'A package that allows to send Whatsapp messages, by given number, message, and time.'
 
@@ -16,7 +16,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=['pyautogui', 'termcolor', 'requests'],
+    install_requires=['pyautogui', 'termcolor', 'pyperclip'],
     keywords=['python', 'Whatsapp', 'message', 'Whatsapp sender', 'message sender'],
     classifiers=[
         "Development Status :: 1 - Planning",
