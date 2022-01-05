@@ -1,6 +1,12 @@
 # whatsender
 WhatSender is a python package that allows you to send Whatsapp messages at a given time.
 
+# HOW TO DOWNLOAD THE PACKAGE
+
+```
+$ pip install WhatSender
+```
+*Link to the package PyPi page: https://pypi.org/project/WhatSender/*
 
 # HOW TO USE
 
