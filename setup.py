@@ -10,8 +10,8 @@ LONG_DESCRIPTION = 'A package that allows to send Whatsapp messages, by given nu
 setup(
     name="WhatSender",
     version=VERSION,
-    author="GodZilo (Ido Barel)",
-    author_email="<vikbarel5@gmail.com>",
+    author="Shaurya Samant(Ido Barel)",
+    author_email="<shauryasamant365@gmail.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
